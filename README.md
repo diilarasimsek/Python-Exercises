@@ -1,4 +1,4 @@
-# Python-Exercises
+# Python Exercises
 
 🎉 Welcome to my 'Python Exercises' repository! These exercises helped me deepen my understanding and proficiency in python. All the questions in the exercises are created by Global AI Hub.
 
